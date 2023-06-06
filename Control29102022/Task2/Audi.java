@@ -1,3 +1,5 @@
+package Control29102022.Task2;
+
 public class Audi extends Car{
     private final int year;
     public Audi(String color, int maxSpeed, int currentSpeed, String box, int price, int year) {

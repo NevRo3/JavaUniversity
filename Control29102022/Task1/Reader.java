@@ -1,3 +1,5 @@
+package Control29102022.Task1;
+
 import java.util.Arrays;
 public class Reader {
     String name;

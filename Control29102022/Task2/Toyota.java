@@ -1,3 +1,5 @@
+package Control29102022.Task2;
+
 public class Toyota extends Car{
     private final int luggage;
     public Toyota(String color, int maxSpeed, int currentSpeed, String box, int price,int luggage) {

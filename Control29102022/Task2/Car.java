@@ -1,3 +1,5 @@
+package Control29102022.Task2;
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;

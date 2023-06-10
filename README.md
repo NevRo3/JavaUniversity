@@ -11,3 +11,4 @@
 1. [Отель](https://github.com/NevRo3/JavaUniversity/tree/main/Hotel)
 1. [Поезда](https://github.com/NevRo3/JavaUniversity/tree/main/Trains)
 1. [Фильмы](https://github.com/NevRo3/JavaUniversity/tree/main/Movies)
+1. [Экзамен](https://github.com/NevRo3/JavaUniversity/tree/main/Exam/src/sample)
